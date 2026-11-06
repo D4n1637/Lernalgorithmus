@@ -16,7 +16,7 @@ Zudem gibt es zusätzliche Funktionen zur Verwaltung und Auswertung der Einträg
 - Dauerhafte Speicherung des Wissens in einer JSON-Datei 
 
 > [!NOTE]
-> Hier steht dein Hinweis zum Projekt.
+> Teile vom Code wurden als Grundgerüst vom Lehrer vorgegeben. Dazu gehören die Unterfunktionen wissen_laden und wissen_speichern. 
 
 ## Verwendete Technologien
 
