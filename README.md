@@ -7,13 +7,13 @@ Zudem gibt es zusätzliche Funktionen zur Verwaltung und Auswertung der Einträg
 
 ## Funktionen
 
--Beantwortung gespeicherter Fragen mit zufällig ausgewählten Antworten
--Hinzufügen neuer Fragen und Antworten
--Erweiterung bestehender Antworten
--Erkennung ähnlich formulierter Fragen mithilfe eines Ähnlichkeitsvergleichs
--Löschen einzelner Antworten
--Statistische Übersicht über die Häufigkeit eingegebener Fragen
--Dauerhafte Speicherung des Wissens in einer JSON-Datei 
+- Beantwortung gespeicherter Fragen mit zufällig ausgewählten Antworten
+- Hinzufügen neuer Fragen und Antworten
+- Erweiterung bestehender Antworten
+- Erkennung ähnlich formulierter Fragen mithilfe eines Ähnlichkeitsvergleichs
+- Löschen einzelner Antworten
+- Statistische Übersicht über die Häufigkeit eingegebener Fragen
+- Dauerhafte Speicherung des Wissens in einer JSON-Datei 
 
 > [!NOTE]
 > Hier steht dein Hinweis zum Projekt.
